@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIClient.API", "APIClient.API\APIClient.API.csproj", "{BEC2B9DE-1AC0-4BFE-A51B-15B16641B82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIClient.Data", "APIClient.Data\APIClient.Data.csproj", "{BC5068F0-04CB-4F4F-8F37-53A78A58BF27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIClient.Shared", "APIClient.Shared\APIClient.Shared.csproj", "{B476C499-C8E4-481E-9DAF-273D717CE7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC2B9DE-1AC0-4BFE-A51B-15B16641B82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC2B9DE-1AC0-4BFE-A51B-15B16641B82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC2B9DE-1AC0-4BFE-A51B-15B16641B82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC2B9DE-1AC0-4BFE-A51B-15B16641B82C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5068F0-04CB-4F4F-8F37-53A78A58BF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5068F0-04CB-4F4F-8F37-53A78A58BF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5068F0-04CB-4F4F-8F37-53A78A58BF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5068F0-04CB-4F4F-8F37-53A78A58BF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B476C499-C8E4-481E-9DAF-273D717CE7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B476C499-C8E4-481E-9DAF-273D717CE7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B476C499-C8E4-481E-9DAF-273D717CE7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B476C499-C8E4-481E-9DAF-273D717CE7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.app-screen {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.mat-drawer-container {
+  flex: 1;
+  display: flex;
+}
+
+.mat-drawer-content {
+  display: flex;
+  /* flex-direction: column; */
+  flex: 1;
+  overflow: auto;
+}
+
+.center-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
